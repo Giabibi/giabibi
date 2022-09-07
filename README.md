@@ -1,16 +1,33 @@
-### Hi there 👋
+## 👋 Introduction
 
+<img align='right' src='https://avatars.githubusercontent.com/u/72017846?v=4' width='200"'>
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Giabibi)
+
+Hi, I'm **Lény**. I am a developer from Bordeaux, France. I’m currently studying at Epitech Bordeaux.
+I do some works with **C**, **C++**, **JS** and **ReactJS**, contact me if you have some questions!
+
+## 📫 Contact Me on Social Media
+
+- ✉️ [Email](mailto:leny.wilhelm@epitech.eu)
 <!--
-**Giabibi/giabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ | 💬 [Issue](https://github.com/Ekinoxx0/just-readme/issues/me) Me about everything!
 -->
+
+## 💡 Projects with My Work
+
+- [**Flashback.ovh**](https://flashback.ovh): My current work on a GTA 5 RP server
+- [**Fightlab.fr**](https://fightlab.fr): My gunfight GTA 5 server
+- [**Oros.dev**](https://oros.dev): Was my default portal for my old work, probably outdated
+- [**Wondalia.com**](https://wondalia.com): My old minecraft server
+
+## 📚 General
+
+- 🔭 I’m currently studying at Epitech Bordeaux
+<!--
+- 🌱 I’m currently learning Vue.js
+-->
+
+## 💻 Work Stats
+
+![Giabibi's Github stats](https://github-readme-stats.vercel.app/api?username=Giabibi&show_icons=true)
