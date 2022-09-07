@@ -16,10 +16,7 @@ I do some works with **C**, **C++**, **JS** and **ReactJS**, contact me if you h
 
 ## 💡 Projects with My Work
 
-- [**Flashback.ovh**](https://flashback.ovh): My current work on a GTA 5 RP server
-- [**Fightlab.fr**](https://fightlab.fr): My gunfight GTA 5 server
-- [**Oros.dev**](https://oros.dev): Was my default portal for my old work, probably outdated
-- [**Wondalia.com**](https://wondalia.com): My old minecraft server
+
 
 ## 📚 General
 
