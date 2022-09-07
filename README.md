@@ -5,7 +5,7 @@
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Giabibi)
 
 Hi, I'm **Lény**. I am a developer from Bordeaux, France. I’m currently studying at Epitech Bordeaux.
-I do some works with **C**, **C++**, **JS** and **ReactJS**, contact me if you have some questions!
+I do some works with **C**, **C++**, **Python** and **ReactJS**, contact me if you have some questions!
 
 ## 📫 Contact Me
 
@@ -23,9 +23,7 @@ I do some works with **C**, **C++**, **JS** and **ReactJS**, contact me if you h
 ## 📚 General
 
 - 🔭 I’m currently studying at Epitech Bordeaux
-<!--
-- 🌱 I’m currently learning <CodeLanguage>
--->
+- 🌱 I’m currently learning **<C#>**
 
 ## 💻 Work Stats
 
