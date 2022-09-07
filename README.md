@@ -7,22 +7,24 @@
 Hi, I'm **Lény**. I am a developer from Bordeaux, France. I’m currently studying at Epitech Bordeaux.
 I do some works with **C**, **C++**, **JS** and **ReactJS**, contact me if you have some questions!
 
-## 📫 Contact Me on Social Media
+## 📫 Contact Me
 
 - ✉️ [Email](mailto:leny.wilhelm@epitech.eu)
 <!--
- | 💬 [Issue](https://github.com/Ekinoxx0/just-readme/issues/me) Me about everything!
+ | 💬 [Issue](https://github.com/Giabibi/just-readme/issues/me) Me about everything!
 -->
 
-## 💡 Projects with My Work
+## 💡 Projects
 
-
+- [**Indie Studio**](https://github.com/EpitechPromo2025/B-YEP-400-BDX-4-1-indiestudio-owen.welte): **[C++]** Re-create the Bomberman game in 3D with **Raylib** library
+- [**My Teams**](https://github.com/EpitechPromo2025/B-NWP-400-BDX-4-1-myteams-leny.wilhelm): **[C]** Re-create Teams Office application using **sockets**
+- [**Arcade**](https://github.com/EpitechPromo2025/B-OOP-400-BDX-4-1-arcade-louison.kalifa): **[C++]** Create a arcade with multiple game and multiple graphic library
 
 ## 📚 General
 
 - 🔭 I’m currently studying at Epitech Bordeaux
 <!--
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning <CodeLanguage>
 -->
 
 ## 💻 Work Stats
