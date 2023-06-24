@@ -27,4 +27,6 @@ I do some works with **C**, **C++**, **Python** and **ReactJS**, contact me if y
 
 ## 💻 Work Stats
 
+*( I work a lot on Gitlab so the commit table is a bit skewed. )*
+
 ![Giabibi's Github stats](https://github-readme-stats.vercel.app/api?username=Giabibi&show_icons=true)
